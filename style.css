@@ -1,0 +1,70 @@
+body {
+    min-height: 1000px;
+    background-color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+
+
+}
+
+.container {
+    max-width: 100%;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 5px auto;
+    justify-content: center;
+
+}
+
+
+.information {
+    text-align: center;
+    margin-left: 8px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    font-weight: normal;
+
+}
+
+
+
+.information h1 {
+    justify-content: center;
+    color: rgb(4, 66, 148);
+}
+
+.information p {
+    margin-left: 85px;
+}
+
+.information h3 {
+    margin-left: 30px;
+}
+
+.summary h2 {
+    color: rgb(4, 66, 148);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.experience h2 {
+    color: rgb(4, 66, 148);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.education h2 {
+    color: rgb(4, 66, 148);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.education h5 {
+    margin-left: 50%;
+
+}
+
+.personal-information h2 {
+    color: rgb(4, 66, 148);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
